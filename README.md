@@ -37,7 +37,7 @@
   기간별 대시보드 구성방안, 데이터 해석 방법, 사용자 교육 등 컨설팅 제공 및 가이드라인 문서 작성.
 
 **기술**
-<br>
+<br><br>
 ![Tableau](https://img.shields.io/badge/Tableau-5A2D81?style=flat&logo=tableau&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlserver&logoColor=white)
