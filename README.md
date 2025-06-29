@@ -140,5 +140,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![교육](https://img.shields.io/badge/교육-E6CC00?style=for-the-badge&logo=googlescholar&logoColor=black)
+![Education](https://img.shields.io/badge/Education-4F709C?style=for-the-badge&logoColor=white)
+
 
