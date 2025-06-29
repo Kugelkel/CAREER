@@ -43,8 +43,9 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
 
-💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주
+💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주에 기여.
 
+<br><br><br>
 
 #### (2) 한국투자신탁운용 대시보드 개발 프로젝트
 
@@ -60,7 +61,7 @@
 
 - **데이터 소스 정제, 연동 및 오류 수정 :**
   Oracle DB에 저장된 데이터 원본을 금융 상품 별 분석을 위한 Tableau 전용 뷰마트를 생성하고, 이를 Tableau Server에 연동.
-  윤달 데이터로 인한 오류를 파악하여, 해당 문자열 처리 구문을 날짜 
+  윤달 데이터로 인한 오류를 파악하여, 해당 문자열 처리 구문을 날짜 형태의 구문으로 수정하여 적용
 
 - **금융 상품 대시보드 시각화 :**
   금융 상품 별 분석 요건을 수집하여 맞춤형 대시보드 구조 설계.
@@ -77,3 +78,35 @@
 ![Tableau](https://img.shields.io/badge/Tableau-5A2D81?style=flat&logo=tableau&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlserver&logoColor=white)
+  
+
+💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.
+
+<br><br><br>
+
+#### (3) 풀무원 대시보드 개발 프로젝트
+
+**기간** : 2023년 2월 ~ 2023년 3월 (약 2개월)
+
+**성과** : 데이터 소스 통합, 동적 대시보드 개발, 사용자 교육을 통해 데이터 활용도와 고객 만족도 상승을 달성하며, 고객사의 셀프 BI 구축 기반 마련 및 신뢰도 강화에 기여.
+
+- 15개의 대시보드 개발.
+- 사용자 요구 만족도 95% 이상.
+
+**역할**
+
+- **데이터 소스 통합 및 정제 :**
+  스노우 플레이크, 엑셀 등 다중 데이터 소스를 Tableau에 연동.
+
+- **핵심 지표 및 동적인 대시보드 시각화 :**
+  고객 요청에 의해 지역 인구 데이터를 연동하여 동적인 지역별 제품 고객 현황 대시보드 개발.
+
+- **교육 및 지원 :**
+  대시보드 사용자에게 사용법 교육 및 피드백 반영
+
+**기술**
+<br><br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
