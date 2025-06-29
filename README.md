@@ -111,6 +111,8 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+💡 고객사 요청에 따라 맞춤형 대시보드 총 9개 제공
+
 <br>
 
 ---
@@ -144,4 +146,12 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
 
+💡 성공적인 맞춤형 교육 운영으로 추가 교육 요청 및 장기적인 협력 관계 형성. 해당 프로젝트 성과를 바탕으로 추가 프로젝트 계약 수주 기여.
 
+<br><br>
+
+#### (5) Tableau 따라하기 YouTube 영상 제작
+
+**기간** : 2023년 6월 ~ 2023년 11월 (약 6개월)
+
+**성과** : 6개월간의 
