@@ -75,10 +75,10 @@
 
 **기술**
 <br><br>
-![Tableau](https://img.shields.io/badge/Tableau-5A2D81?style=flat&logo=tableau&logoColor=white)
-![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlserver&logoColor=white)
-  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.
 
