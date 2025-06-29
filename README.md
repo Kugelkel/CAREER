@@ -45,7 +45,7 @@
 
 💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주에 기여.
 
-<br><br><br>
+<br><br>
 
 #### (2) 한국투자신탁운용 대시보드 개발 프로젝트
 
@@ -82,7 +82,7 @@
 
 💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.
 
-<br><br><br>
+<br><br>
 
 #### (3) 풀무원 대시보드 개발 프로젝트
 
@@ -110,3 +110,35 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+---
+
+### ☑️ 교육
+
+#### (4) 대동 내부 BI 전문가 양성 프로젝트
+
+**기간** : 2024년 5월 ~ 2024년 11월 (약 7개월)
+
+**성과** : 맞춤형 1:1 교육으로 고객사 직원들의 데이터 분석 역량을 체계적으로 향상시키고, 데이터 중심 조직 문화 정착 및 추가 비즈니스 기회 창출과 장기적 파트너쉽 형성에 기여.
+
+- 6개 부서별 샘플 대시보드 8개 이상 개별 교육 지원.
+- 교육 대상자 요구 만족도 95% 이상.
+- 교육 지원 받은 대시보드 중 약 40%가 대시보드 업무에 즉시 적용됨.
+
+**역할**
+
+- **교육 콘텐츠 기획 및 설계 :**
+  초급부터 고급까지 수준별로 커리큘럼 구성 (기초 그래프, KPI 설정, 고급 분석 기능 활용 등).
+  고객사의 실제 데이터를 활용한 실습 중심의 부서 별 대시보드 개발 교육 설계.
+- **교육 실행 및 맞춤형 지도 :**
+  고객사 직원의 데이터 분석 사례를 기반으로 실습 세션 운영 및 맞춤형 피드백 제공.
+  복잡한 BI 구현을 위한 1:1 컨설팅 및 실시간 질의응답 진행.
+
+**기술**
+<br><br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![교육](https://img.shields.io/badge/교육-E6CC00?style=for-the-badge&logo=googlescholar&logoColor=black)
+
