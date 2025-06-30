@@ -43,7 +43,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
 
-💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주에 기여.
+**💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주에 기여.**
 
 <br><br>
 
@@ -80,7 +80,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.
+**💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.**
 
 <br><br>
 
@@ -111,7 +111,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-💡 고객사 요청에 따라 맞춤형 대시보드 총 9개 제공
+**💡 고객사 요청에 따라 맞춤형 대시보드 총 9개 제공**
 
 <br>
 
@@ -146,7 +146,7 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
 
-💡 성공적인 맞춤형 교육 운영으로 추가 교육 요청 및 장기적인 협력 관계 형성. 해당 프로젝트 성과를 바탕으로 추가 프로젝트 계약 수주 기여.
+**💡 성공적인 맞춤형 교육 운영으로 추가 교육 요청 및 장기적인 협력 관계 형성. 해당 프로젝트 성과를 바탕으로 추가 프로젝트 계약 수주 기여.**
 
 <br><br>
 
@@ -154,4 +154,54 @@
 
 **기간** : 2023년 6월 ~ 2023년 11월 (약 6개월)
 
-**성과** : 6개월간의 
+**성과** : 6개월간 30편 이상의 체계적인 영상 제작으로 교육 콘텐츠 활용성 증가 및 Tableau 활용도 향상에 기여. 콘텐츠는 사내 및 외부 교육에서 활용되며, 지속적인 학습 자료로 자리 잡음.
+
+- 30개의 Tableau 교육 영상 제작.
+- 5회 이상의 내·외부 교육의 참고 자료로 활용됨.
+- 80% 이상의 개발자 업무 시 활용 응답.
+
+**역할**
+
+- **교육 콘텐츠 기획 및 설계 :**
+  초보자 및 중급 사용자를 대상으로 한 단계별 학습 콘텐츠 기획
+- **자료 준비 및 데이터 모델링 :**
+  실습에 적합한 샘플 데이터 세트 및 대시보드 설계
+- **교육 효과 분석 및 피드백 반영 :**
+  실무자와의 협의, 시청자 피드백 분석 후 콘텐츠 품질 및 학습 효과 개선
+
+**기술**
+<br><br>
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
+![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
+
+**💡총 30개 이상의 영상 제작 후 팀 내 Tableau 활용도 증가, 사내 및 외부 교육 프로그램에 활용되어 총 10회 이상 진행, 50명이상 교육**
+
+<br><br>
+
+#### (6) Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육
+
+**기간** : 2023년 5월 ~ 현재 (약 2년이상)
+
+**성과** : 정기 및 맞춤형 교육을 통해 Tableau 활용 역량 강화, 신뢰 및 만족도 상승, 추가 비즈니스 기회 창출을 달성하며, 데이터 분석 및 시각화 교육의 표준을 확립. 현재 본부 내 교육 시스템 총괄 관리.
+
+- 30회 이상의 정기 및 외부 교육 진행
+- 500명 이상의 인원 교육 진행
+- 교육 대상자 요구 만족도 95% 이상.
+
+**역할**
+- **정기 교육 기획, 운영 및 총괄 관리 :**
+  사내 직원 및 외부 고객사를 대상으로 Tableau 활용 정기 교육 프로그램 기획 및 주기적으로 운영.
+  정기 교육을 통해 사내 Tableau 활용도 향상 및 외부 고객사 니즈 충족.
+  본부 내 정기 교육 프로세스 확립으로 총괄 관리
+- **고객사 맞춤형 교육 제공 :**
+  고객사의 비즈니스 요구사항을 분석하여 해당 고객의 데이터로 맞춤형 교육 콘텐츠 제작.
+  산업별 특화된 데이터 분석 사례와 실무 중심의 Tableau 대시보드 구축 방법론 제공.
+  초급부터 고급까지 수준별 커리큘럼 설계 및 실습 자료 준비.
+
+**기술**
+<br><br>
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
+![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+**💡 정기 및 외부 교육을 총 30회 이상 진행, 500명 이상 교육하여 고객사의 신뢰도 및 만족도 증대로 추가 교육 및 컨설팅 기회 창출**
