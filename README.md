@@ -42,6 +42,7 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
+<br>
 
 **💡 고객사 요청에 따라 맞춤형 대시보드 총 13개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 및 BI 전문가 양성 프로젝트 수주에 기여.**
 
