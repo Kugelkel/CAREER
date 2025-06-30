@@ -79,7 +79,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+ 
+<br>
 
 **💡 고객사 요청에 따라 맞춤형 대시보드 총 20개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수 계약 프로젝트 수주에 기여.**
 
@@ -111,6 +112,8 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+<br>
 
 **💡 고객사 요청에 따라 맞춤형 대시보드 총 9개 제공**
 
@@ -146,6 +149,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
+ 
+<br>
 
 **💡 성공적인 맞춤형 교육 운영으로 추가 교육 요청 및 장기적인 협력 관계 형성. 해당 프로젝트 성과를 바탕으로 추가 프로젝트 계약 수주 기여.**
 
@@ -174,6 +179,8 @@
 <br><br>
 ![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
+ 
+<br>
 
 **💡총 30개 이상의 영상 제작 후 팀 내 Tableau 활용도 증가, 사내 및 외부 교육 프로그램에 활용되어 총 10회 이상 진행, 50명이상 교육**
 
@@ -204,5 +211,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+ 
+<br>
 
 **💡 정기 및 외부 교육을 총 30회 이상 진행, 500명 이상 교육하여 고객사의 신뢰도 및 만족도 증대로 추가 교육 및 컨설팅 기회 창출**
