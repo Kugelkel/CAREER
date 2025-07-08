@@ -215,6 +215,9 @@
 
 **💡총 30개 이상의 영상 제작 후 팀 내 Tableau 활용도 증가, 사내 및 외부 교육 프로그램에 활용되어 총 10회 이상 진행, 50명이상 교육**
 
+**교육영상 링크**
+https://www.youtube.com/watch?v=A1dVkbhOz9I&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=74
+
 <br><br>
 
 #### (7) Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육
