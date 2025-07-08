@@ -212,7 +212,9 @@
 ![Education](https://img.shields.io/badge/Education-E97627?style=for-the-badge&logoColor=white)
 
 <br>
-🎥[교육 영상 링크](https://www.youtube.com/watch?v=A1dVkbhOz9I&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=74)
+🎥
+
+[교육 영상 링크](https://www.youtube.com/watch?v=A1dVkbhOz9I&list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz&index=74)
  
 <br>
 
