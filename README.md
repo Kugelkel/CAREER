@@ -12,6 +12,29 @@
 
 ### ☑️ 프로젝트
 
+
+#### (1) 태블로 AI 챗봇 개발 내부 프로젝트
+
+**기간** : 2025년 8월 ~ now (약 2개월)
+
+**성과** : 진행중
+
+**역할**
+
+- **환경 구축 및 인프라 구성 :**
+  AWS EC2 대시보드를 활용하여 AI 프로그램 테스트를 위한 환경 구성. EBS 볼륨 설정, 인바운드 규칙, Conda 가상환경 설치 및 프로젝트 별 라이브러리 관리
+  
+**기술**  
+<br><br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Conda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 #### (1) 대동 BI 프로젝트
 
 **기간** : 2024년 10월 ~ 2025년 1월 (약 4개월)
