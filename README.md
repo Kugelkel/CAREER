@@ -28,14 +28,13 @@
 <br>
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Conda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-#### (1) 대동 BI 프로젝트
+#### (2) 대동 BI 프로젝트
 
 **기간** : 2024년 10월 ~ 2025년 1월 (약 4개월)
 
@@ -71,7 +70,7 @@
 
 <br><br>
 
-#### (2) 한국투자신탁운용 대시보드 개발 프로젝트
+#### (3) 한국투자신탁운용 대시보드 개발 프로젝트
 
 **기간** : 2023년 11월 ~ 2024년 3월 (약 5개월)
 
@@ -109,7 +108,7 @@
 
 <br><br>
 
-#### (3) 풀무원 대시보드 개발 프로젝트
+#### (4) 풀무원 대시보드 개발 프로젝트
 
 **기간** : 2023년 2월 ~ 2023년 3월 (약 2개월)
 
@@ -147,7 +146,7 @@
 
 ### ☑️ 교육
 
-#### (4) 현대카드 MIS 태블로 대시보드 내재화 프로젝트
+#### (5) 현대카드 MIS 태블로 대시보드 내재화 프로젝트
 
 **기간** : 2025년 5월 ~ 2025년 7월 (약 3개월)
 
@@ -178,7 +177,7 @@
 
 <br><br>
 
-#### (5) 대동 내부 BI 전문가 양성 프로젝트
+#### (6) 대동 내부 BI 전문가 양성 프로젝트
 
 **기간** : 2024년 5월 ~ 2024년 11월 (약 7개월)
 
@@ -210,7 +209,7 @@
 
 <br><br>
 
-#### (6) Tableau 따라하기 YouTube 영상 제작
+#### (7) Tableau 따라하기 YouTube 영상 제작
 
 **기간** : 2023년 6월 ~ 2023년 11월 (약 6개월)
 
@@ -245,7 +244,7 @@
 
 <br><br>
 
-#### (7) Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육
+#### (8) Tableau 정기 내·외부 교육 및 고객사 맞춤형 교육
 
 **기간** : 2023년 5월 ~ 현재 (약 2년이상)
 
