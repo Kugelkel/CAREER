@@ -25,7 +25,7 @@
   AWS EC2 대시보드를 활용하여 AI 프로그램 테스트를 위한 환경 구성. EBS 볼륨 설정, 인바운드 규칙, Conda 가상환경 설치 및 프로젝트 별 라이브러리 관리
   
 **기술**  
-<br><br>
+<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
