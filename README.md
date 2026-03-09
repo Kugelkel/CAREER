@@ -13,31 +13,46 @@
 ### ☑️ 프로젝트
 
 
-#### (1) Tableau Chat AI 개발 프로젝트 (진행 중)
+#### (1) 넥센 타이어 글로벌 CRM 구축 4차 프로젝트 
 
-**기간** : 2025년 8월 ~ now (약 2개월)
+**기간** : 2025년 10월 ~ 2026년 2월 (약 4개월)
 
 **성과 (현재 진행 상황)** : 
-AWS EC2 기반 Red Hat 환경에서 프로젝트 실행을 위한 개발 환경과 인프라를 안정적으로 구성.  
-향후 Tableau 챗봇 AI 기능 개발 및 데이터 연동을 목표로 프로젝트 진행 중
+국가별 화면 요건에 맞춘 글로벌 실적 대시보드를 구축.
+다국어(한국어·중국어) 지원 및 데이터 구조 표준화를 통한 글로벌 실적 모니터링 체계를 안정적으로 정착시킴.
+
+- Salesforce, MariaDB 데이터 기반으로 실적/할인율 대시보드 42장 신규 개발
+- 한국어 / 중국어 2개 언어 버전 대시보드 구축
+- 기존 MariaDB 실적 테이블 생성 로직 역설계 후 재구현
+- 데이터 로직 검증 과정에서 정합성 이슈를 식별하고 계산 로직을 개선
 
 **역할**
 
-- **환경 구축 및 인프라 구성 :**
-  AWS EC2 대시보드를 활용하여 AI 프로그램 테스트를 위한 전반적인 환경 구성. 인스턴스 생성 및 EBS 볼륨 설정, 인바운드 규칙, Conda 가상환경 설치 및 프로젝트 별 라이브러리 관리
+- **데이터 소스 분석, 연계 및 로직 검증 :**
+  기존 운영 DB의 실적 및 할인율 데이터 생성 로직 분석 및 데이터 흐름 파악.
+  Salesforce와 MariaDB에 저장된 CRM 데이터를 분석하여 대시보드 구축을 위한 데이터 구조 정의 및 연계.
+  로직 검증 과정에서 발견된 정합성 이슈를 수정하여 데이터 정확도 개선.
   
-- **필수 라이브러리 설치 :**
-  Python 기반 AI/분석 라이브러리 설치 및 환경 검증. 개발 및 운영 환경 분리 준비.
- 
+- **글로벌 실적 대시보드 시각화 :**
+  국가별 요구 사항을 반영하여 실적 및 성과 분석을 위한 대시보드 설계 및 개발.
+  실적, 할인율, KPI 지표 중심의 분석 대시보드를 한국어·중국어 다국어 버전으로 42장 구축.
+
+- **분석 환경 구축 및 사용자 지원 :**
+  데이터 정의서, 로직 설명서 등 프로젝트 산출물을 작성하여 데이터 구조와 분석 기준을 문서화.
+  사용자들이 대시보드를 효과적으로 활요할 수 있도록 대시보드 구조 및 데이터 해석 방법에 대한 가이드 제공.
+  
   
 **기술**  
 <br>
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Conda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1E3A8A?style=for-the-badge&logo=tableau&logoColor=white)
+
+<br>
+
+**💡 고객사 요청에 따라 맞춤형 대시보드 총 42개 제공, 해당 프로젝트 성과를 바탕으로 추가 유지보수에 기여.**
 
 <br><br>
 
